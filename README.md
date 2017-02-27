@@ -1,8 +1,8 @@
 # StockMarketDiscount
 Every quarter the share price of a stock is discounted before the results are out. Most of the cases the price is either over-discounted or under-discounted. This machine learning code predicts the true price, by feeding to it the result data. The code uses linear regression on 8 features that are disclosed with the Quarterly result
 
-To use this code, download the repository and add the previous company data as well as the stock closing price the day of the result
-the required data for Companies listed in Indian markets can be found in screener.in
+To use this code, download the repository and add the previous company data as well as the stock closing price the day of the result.
+The required data for Companies listed in Indian markets can be found in screener.in
 
 save  
       
