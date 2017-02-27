@@ -4,7 +4,9 @@ Every quarter the share price of a stock is discounted before the results are ou
 To use this code, download the repository and add the previous company data as well as the stock closing price the day of the result
 the required data for Companies listed in Indian markets can be found in screener.in
 
-save  Depreciation data as dep.txt
+save  
+      
+      Depreciation data as dep.txt
       
       Expenses in expense.txt      
       
