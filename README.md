@@ -29,4 +29,5 @@ save
 
 
 I have included a sample data, in the folder ruchira, which contains data of ruchira papers till june 2016
+
 After the data has been added run discount() in octave, the true price of the stock will be predicted, and the market can be expected to move in that direction and trade positions can be taken.
